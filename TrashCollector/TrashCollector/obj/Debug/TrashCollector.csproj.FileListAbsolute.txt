@@ -115,10 +115,11 @@ C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\b
 C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\bin\Microsoft.AI.Web.xml
 C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\obj\Debug\TrashCollector.csprojAssemblyReference.cache
 C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\obj\Debug\TrashCollector.csproj.CoreCompileInputs.cache
 C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\obj\Debug\TrashCollector.csproj.CopyComplete
 C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\obj\Debug\TrashCollector.dll
 C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\obj\Debug\TrashCollector.pdb
 C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\obj\Debug\TrashCollector.Migrations.InitialMigration.resources
 C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\obj\Debug\TrashCollector.csproj.GenerateResource.cache
+C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\obj\Debug\TrashCollector.Migrations.role.resources
+C:\Users\jvoll\Documents\Projects\TrashCollector\TrashCollector\TrashCollector\obj\Debug\TrashCollector.csprojAssemblyReference.cache
